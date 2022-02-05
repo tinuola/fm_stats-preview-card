@@ -127,6 +127,20 @@ footer {
   color: var(--violet); 
 }
 
+@media (min-width: 499px){
+
+  .content-container {
+    padding-top: 3rem;
+    max-width: 425px;
+  }
+
+  .stats-container {
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    margin: 2rem auto 0 auto;
+  }
+}
 
 @media (min-width: 850px){
   main {
@@ -139,6 +153,7 @@ footer {
   }
 
   .content-container {
+    max-width: 100%;
     order: 1;
   }
 
@@ -160,14 +175,12 @@ footer {
   }
 
   .stats-container {
-    display: flex;
-    justify-content: space-between;
-    width: 300px;
+    margin: 2rem 0 0 0;
   }
 }
 
 @media (min-width: 991px){
   .content-container {
-    padding: 4rem 5rem 4rem 4rem;
+    padding: 4rem;
   }
 }
