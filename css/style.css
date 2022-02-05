@@ -60,8 +60,7 @@ main {
   content: '';
   background: var(--violet-overlay);
   width:100%;
-  opacity: .75;
-
+  opacity: .65;
 }
 
 .content-container {
@@ -114,6 +113,7 @@ footer {
   margin-top: 1rem;
   margin-bottom: 2rem;
 }
+
 .fm-attribution-row {
   line-height: 1.5;
 }
@@ -128,7 +128,6 @@ footer {
 }
 
 @media (min-width: 499px){
-
   .content-container {
     padding-top: 3rem;
     max-width: 425px;
@@ -168,18 +167,14 @@ footer {
 
   .cta-text-group h2 {
     font-size: 1.95rem;
-  }
-
-  .cta-text-group p {
-    font-size: .95rem;
-  }
+  }`
 
   .stats-container {
     margin: 2rem 0 0 0;
   }
 }
 
-@media (min-width: 991px){
+@media (min-width: 980px){
   .content-container {
     padding: 4rem;
   }
