@@ -163,7 +163,7 @@ footer {
 
   .content-container {
     text-align: left;
-    padding-right: 5rem;
+    padding-right: 2rem;
   }
 
   .cta-text-group h2 {
@@ -175,8 +175,8 @@ footer {
   }
 }
 
-@media (min-width: 980px){
-  .content-container {
-    padding: 4rem;
+@media (min-width: 930px){
+  .content-container{
+    padding-right: 4rem;
   }
 }
