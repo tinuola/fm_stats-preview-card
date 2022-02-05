@@ -129,10 +129,6 @@ footer {
 }
 
 @media (min-width: 499px){
-  main {
-    margin-top: unset;
-  }
-
   .content-container {
     padding-top: 3rem;
     max-width: 425px;
@@ -149,6 +145,7 @@ footer {
 @media (min-width: 850px){
   main {
     flex-direction: row;
+    margin-top: unset;
   }
 
   .img-container,
