@@ -43,6 +43,7 @@ main {
   flex-direction: column;
   border-radius: 8px;
   overflow: hidden;
+  margin-top: 2.5rem;
 }
 
 .img-container {
@@ -128,6 +129,10 @@ footer {
 }
 
 @media (min-width: 499px){
+  main {
+    margin-top: unset;
+  }
+
   .content-container {
     padding-top: 3rem;
     max-width: 425px;
