@@ -163,11 +163,12 @@ footer {
 
   .content-container {
     text-align: left;
+    padding-right: 5rem;
   }
 
   .cta-text-group h2 {
     font-size: 1.95rem;
-  }`
+  }
 
   .stats-container {
     margin: 2rem 0 0 0;
