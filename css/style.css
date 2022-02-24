@@ -47,7 +47,7 @@ main {
 }
 
 .img-container {
-  background-image: url(../assets/imgs/image-header-mobile.jpg);
+  background-image: url(../assets/images/image-header-mobile.jpg);
   min-height: 240px;
   width: 100%;
   background-repeat: no-repeat;
