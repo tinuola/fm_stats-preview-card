@@ -10,7 +10,7 @@ Users should be able to:
 
 
 ### Solution
-LIve Site: [https://tinuola.github.io/fm-stats-preview-card/](https://tinuola.github.io/fm-stats-preview-card/)
+LIve Site: [https://tinuola.github.io/fm_stats-preview-card/](https://tinuola.github.io/fm_stats-preview-card/)
 
 ### Tools
 - Semantic HTML5
